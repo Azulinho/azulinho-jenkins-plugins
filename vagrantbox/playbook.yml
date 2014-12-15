@@ -8,5 +8,9 @@
 
   roles:
     - Azulinho.azulinho-google-dns
+
+    # jenkins role installs jenkins
+    - Azulinho.azulinho-jenkins-server
+
     - this-github-role
 

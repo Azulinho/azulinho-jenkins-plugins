@@ -1,4 +1,4 @@
-jenkins:
+azulinho_jenkins_plugins:
   port: 8080
   cli_dest: '/opt/jenkins/jenkins-cli.jar' # Jenkins CLI destination
   updates_dest: '/opt/jenkins/updates_jenkins.json' # Jenkins updates file
